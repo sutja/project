@@ -1,0 +1,12 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: url(img/img.png)
+}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@100&display=swap');
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+div {
+  text-align: center;
+}
